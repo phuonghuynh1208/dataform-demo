@@ -1,0 +1,5 @@
+defaultProject: dataproc-demo-428803
+defaultLocation: africa-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
