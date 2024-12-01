@@ -14,3 +14,11 @@ config {
 -- The rest of a SQLX file contains your SELECT statement used to create the table.
 
 SELECT 1 as test
+union all
+SELECT 2 as test
+union all
+SELECT 3 as test
+union all
+SELECT 4 as test
+union all
+SELECT 5 as test
