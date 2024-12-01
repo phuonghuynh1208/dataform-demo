@@ -22,3 +22,7 @@ union all
 SELECT 4 as test
 union all
 SELECT 5 as test
+union all
+SELECT 6 as test
+union all
+SELECT 7 as test
